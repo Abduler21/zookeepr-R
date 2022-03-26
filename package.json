@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Abduler21/zookeepr-R#readme",
   "dependencies": {
+    "express": "^4.17.3",
     "jest": "^27.5.1",
     "nodemon": "^2.0.15"
   }
